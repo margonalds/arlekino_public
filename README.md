@@ -8,6 +8,22 @@
 Бот для записи клиентов в тату-студию: клиент сам выбирает мастера, размер работы,
 день и время, а мастера и админ управляют расписанием прямо в Telegram.
 
+## Как это выглядит
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="docs/screenshots/new_slot_from_client.jpg" width="360"><br><sub>Новая заявка у мастера и ввод итоговой цены</sub></td>
+    <td align="center" width="50%"><img src="docs/screenshots/slot.jpg" width="360"><br><sub>Карточка записи: изменить цену, отменить, перенести, написать клиенту</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/schedule.png" width="360"><br><sub>Управление расписанием: рабочие дни ✓ и выходные студии ✖</sub></td>
+    <td align="center"><img src="docs/screenshots/check.png" width="360"><br><sub>Цена и предоплата клиенту, чек оплаты, подтверждение переноса</sub></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="docs/screenshots/masters_slots_for_day.png" width="520"><br><sub>Утренняя сводка мастеру в 8:00</sub></td>
+  </tr>
+</table>
+
 ## Возможности
 
 ### Клиент
